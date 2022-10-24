@@ -1,0 +1,14 @@
+.del{
+    cursor: pointer;
+}
+.edit{
+    cursor: pointer;
+}
+
+#edit{
+    display: none;
+}
+
+.todo-form{
+    display: inline;
+}
